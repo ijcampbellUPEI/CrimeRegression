@@ -1,0 +1,226 @@
+
+---
+title: "STAT 3240 Project Proposal"
+author: "WRITE YOUR GROUP NAME HERE"
+date: "Last updated on `r Sys.Date()`"
+output:
+  html_document:
+    fig_caption: yes
+    theme: lumen
+    toc: yes
+    toc_depth: 2
+    df_print: kable
+    toc_float:
+      collapsed: no
+---
+
+```{r, message=FALSE}
+# Load all packages here:
+library(readr)
+library(dplyr)
+library(ggplot2)
+library(janitor)
+
+# Set seed value of random number generator to get "replicable" random numbers.
+# The choice of seed value of 76 was an arbitrary one on my part.
+set.seed(76)
+```
+
+# Big-picture
+
+## Research question
+
+We are interested in exploring the relationship between the size of police forces and crime rates in Canada.  We want to determine how the crime severity index is related to the number of police officers in Canada.
+
+
+## Description of data
+
+_Please give a very short description of the data set along with it's original source._
+
+We needed observations of the amount of crime being committed in communities and the size of their police forces.  We downloaded data from Stats Canada with a crime severity index for municipalities across Canada.  The index is a measurement of crime rates with more serious crimes being weighed higher in the calculation.
+
+
+# Data
+
+## Load data into R
+
+_Include the code to load your data here. If your data is not confidential nor is it private in nature, consider publishing it as a `.csv` file on Google Sheets as in the code chunk below; instructions on how to do this are in Steps 1-6 [here](https://twitter.com/rudeboybert/status/1055821846539591680). If the data shouldn't be published online, then please submit the spreadsheet file on Moodle._
+
+```{r, message=FALSE}
+rawData <- read_csv("https://docs.google.com/spreadsheets/d/e/2PACX-1vTdZx7AmoyTTzd-qUE-b6CuDjTI4FcfaDfxXnL2Q0QPs6RGY8LbsRdGatGJlclXG0Vlu266_KNq9qzU/pub?gid=263885772&single=true&output=csv")
+```
+
+## Clean variable names
+
+_Pipe your data frame into the `clean_names()` function from the `janitor` package. Then be sure to overwrite the original data frame with this new data frame using the `<-` assignment operator. This will clean your variable names, making them easier to work with._
+
+```{r}
+rawData <- rawData %>%
+  clean_names()
+glimpse(rawData)
+```
+
+## Data wrangling
+
+_Complete your data wrangling here_: 
+
+We converted population size into a categorical variable roughly based on the
+We removed 2 observation of towns with 0 police officers, and one extreme outlier.  Manawan, Quebec has a crime severity index an order of magnitude higher than the next highest.  We have removed it.  We also shortened one of the column headers.
+
+```{r}
+policeData <- filter(rawData, total_police_officers > 0, crime_severity_index <1700)
+
+policeData <- rename(policeData, officers_per_100000=police_officers_per_100000, authorized_officers_per_100000=authorized_police_strength_per_100000)
+```
+
+```{r}
+policeData <- policeData %>% mutate(population_level = cut(population,
+    breaks = c(1000, 6000, 13000, 63000, 3000000),
+    labels = c("1000-6000", "6000-13000", "13000-63000", ">63000")
+  ))
+
+summary(policeData$population_level)
+
+```
+
+
+
+***
+
+
+# Preview of data
+
+## Pare down variables
+
+_`select()` the following variables **in this order** and drop all others. Eliminating all unnecessary variables will making visually exploring the raw values less taxing mentally, as we'll have less data to look at._
+
+1. _First: The identification variable (if any)_
+1. _Second: The outcome variable $y$_
+1. _Third: The numerical explanatory variable_
+1. _Fourth: The categorical explanatory variable_
+1. _Rest: any other variables you find interesting_
+
+```{r}
+policing <- policeData %>% select(geo, crime_severity_index, officers_per_100000, population_level, authorized_officers_per_100000)
+```
+
+## Look at your data using glimpse
+
+_Look at your data using the `glimpse()` function._
+
+```{r}
+glimpse(policing)
+
+```
+
+## Show a preview of your data
+
+_Look at your data another way by displaying a random sample of 5 rows of your data frame by piping it into the `sample_n(5)` function from the `dplyr` package._
+
+```{r}
+policing %>%
+  sample_n(5)
+```
+
+
+
+***
+
+
+
+# Exploratory data analysis
+
+_Let's do an little exploratory data analysis._
+
+## Inspect for missing values
+
+_Address missing values._
+
+
+```{r}
+colSums(is.na(policing))
+```
+
+
+## Summary statistics
+
+_Compute some quick summary statistics of the outcome variable and comment._
+
+```{r}
+policing %>%
+  group_by(population_level) %>% 
+  summarize(n = n(), 
+            correlation = cor(crime_severity_index, officers_per_100000  ),
+            mean = mean(crime_severity_index , na.rm = TRUE), 
+            median = median(crime_severity_index , na.rm = TRUE), 
+            sd = sd(crime_severity_index , na.rm = TRUE))
+```
+
+
+## Histogram of outcome variable 
+
+_Visualize the distribution of the outcome variable using a histogram and comment._
+
+```{r, fig.cap = "Figure 1. WRITE A TITLE HERE", fig.align = "center", fig.width=16/2, fig.height=9/2}
+ggplot(policing, aes(x = crime_severity_index)) +
+  geom_histogram(binwidth=20, color = "white", fill = "steelblue") +
+  labs(x = "Crime Severity Index", y = "Number of Municipalities")
+```
+
+
+
+## Scatterplot 
+
+_Visualize the relationship of the outcome variable and the numerical explanatory variable using a scatterplot and comment._
+
+```{r, fig.cap = "Figure 2. WRITE A TITLE HERE", fig.align = "center", fig.width=16/2, fig.height=9/2}
+ggplot(policing, aes(x = officers_per_100000, y = crime_severity_index ))+
+  geom_point() +
+  geom_smooth(method = "lm", se = FALSE ) +
+  labs(y = "Crime Severity Index", 
+       x = "Police Officers per 100,000") 
+```
+
+
+## Boxplot
+
+_Visualize the relationship of the outcome variable and the categorical explanatory variable using a scatterplot and comment._
+
+```{r, fig.cap = "Figure 3. WRITE A TITLE HERE", fig.align = "center", fig.width=16/2, fig.height=9/2}
+ggplot(policing, aes(x = population_level, y = crime_severity_index, fill=population_level )) +
+  geom_boxplot() +
+  labs(x = "Population")
+```
+
+## Colored scatterplot
+
+_Visualize the relationship of the outcome variable and both explanatory variables using a colored scatterplot and comment._
+
+```{r, fig.cap = "Figure 4. WRITE A TITLE HERE", fig.align = "center", fig.width=16/2, fig.height=9/2}
+ggplot(policing, aes(x=officers_per_100000, y=crime_severity_index, color=population_level)) +
+  geom_point() +
+  geom_smooth(method = "lm", se = FALSE ) +
+  labs(y = "Police Officers per 100000", x = "Crime Severity Index")
+```
+
+```{r, fig.cap = "Figure 2. WRITE A TITLE HERE", fig.align = "center", fig.width=16/2, fig.height=9/2}
+ggplot(policing, aes(x = officers_per_100000, y = crime_severity_index, color=population_level ))+
+  geom_point() +
+  geom_smooth(method = "lm", se = FALSE ) +
+  labs(y = "Crime Severity Index", 
+       x = "Police Officers per 100,000") 
+```
+
+
+# Author Statement
+
+## Individual Roles
+
+_Describe the role (Facilitator, Recorder, Reporter, Time Keeper, Checker) and level of contribution of each group member during this project phase_ 
+
+
+## Individual Contribution
+
+_If your group were to earn 5 points on this submission, how should those points be shared across your group members?_
+
+

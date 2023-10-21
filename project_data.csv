@@ -1,0 +1,300 @@
+"dep","geo","crime_severity_index","population","authorized_police_strength_per_100000","police_officers_per_100000","total_police_officers"
+"2021A002510500","St. John's, Newfoundland and Labrador, Royal Newfoundland Constabulary, municipal",67.86,209936,164.8,164.8,346
+"2021A002510501","Labrador, Newfoundland and Labrador, Royal Newfoundland Constabulary, municipal",29.42,10128,177.7,177.7,18
+"2021A002510502","Corner Brook, Newfoundland and Labrador, Royal Newfoundland Constabulary, municipal",73.51,19037,252.1,210.1,40
+"2021A002511001","Cornwall, Prince Edward Island, Royal Canadian Mounted Police, municipal",41.17,6369,62.8,62.8,4
+"2021A002511002","Charlottetown, Prince Edward Island, municipal",62.25,42793,140.2,140.2,60
+"2021A002511007","Summerside, Prince Edward Island, municipal",106.36,15983,200.2,200.2,32
+"2021A002511009","Kensington, Prince Edward Island, municipal",36.81,2196,409.8,409.8,9
+"2021A002511714","Stratford, Prince Edward Island, Royal Canadian Mounted Police, municipal",32.33,11744,42.6,42.6,5
+"2021A002512001","Amherst, Nova Scotia, municipal",143.32,9733,246.6,246.6,24
+"2021A002512006","Bridgewater, Nova Scotia, municipal",72.52,9042,276.5,276.5,25
+"2021A002512018","Cape Breton Region, Nova Scotia, municipal",60.38,94921,210.7,210.7,200
+"2021A002512023","Kentville, Nova Scotia, municipal",76,6703,253.6,253.6,17
+"2021A002512044","Stellarton, Nova Scotia, municipal",113.41,4119,267.1,267.1,11
+"2021A002512052","Truro, Nova Scotia, municipal",83.9,13193,272.9,272.9,36
+"2021A002512054","Westville, Nova Scotia, municipal",94.43,3585,251,167.4,6
+"2021A002512058","New Glasgow, Nova Scotia, municipal",154.46,11942,301.5,293.1,35
+"2021A002512752","Antigonish, Nova Scotia, Royal Canadian Mounted Police, municipal",140.55,4703,191.4,191.4,9
+"2021A002512776","Pictou, Nova Scotia, Royal Canadian Mounted Police, municipal",116.07,3293,212.6,212.6,7
+"2021A002512834","Yarmouth, Nova Scotia, Royal Canadian Mounted Police, municipal",150.49,6866,262.2,233,16
+"2021A002512836","Shelburne, Nova Scotia, Royal Canadian Mounted Police, municipal",196.72,1597,250.5,250.5,4
+"2021A002513001","Bathurst, New Brunswick, municipal",103.28,12250,253.1,253.1,31
+"2021A002513006","Edmundston, New Brunswick, municipal",71.2,16781,196.7,190.7,32
+"2021A002513007","Fredericton, New Brunswick, municipal",92.32,65293,166.9,166.9,109
+"2021A002513008","Sackville, New Brunswick, Royal Canadian Mounted Police, municipal",90.88,5987,167,167,10
+"2021A002513012","Grand Falls, New Brunswick, municipal",63.1,5267,303.8,303.8,16
+"2021A002513015","Miramichi, New Brunswick, municipal",90.55,18017,188.7,188.7,34
+"2021A002513024","Kennebecasis Regional Police Force, New Brunswick, municipal",20.83,31250,124.8,124.8,39
+"2021A002513027","Saint John, New Brunswick, municipal",65.81,71541,187.3,187.3,134
+"2021A002513037","Woodstock, New Brunswick, municipal",139.86,5586,322.2,250.6,14
+"2021A002513050","Beresford, Nigadoo, Petit-Rocher, Pointe-Verte (BNPP) Regional, New Brunswick, municipal",35.4,8902,168.5,168.5,15
+"2021A002513704","St. Andrews, New Brunswick, Royal Canadian Mounted Police, municipal",70.56,1931,155.4,155.4,3
+"2021A002513706","Campbellton, New Brunswick, Royal Canadian Mounted Police, municipal",185.87,6805,264.5,279.2,19
+"2021A002513709","Codiac Regional, New Brunswick, Royal Canadian Mounted Police, municipal",126.55,131333,111.9,120.3,158
+"2021A002513776","Oromocto, New Brunswick, Royal Canadian Mounted Police, municipal",64.26,9809,132.5,132.5,13
+"2021A002513855","Hampton, New Brunswick, Royal Canadian Mounted Police, municipal",43.09,4412,113.3,68,3
+"2021A002524040","Bromont, Quebec, municipal",27.55,11496,269.7,191.4,22
+"2021A002524047","Roussillon Region, Quebec, municipal",31.57,115766,129.6,99.3,115
+"2021A002524057","Châteauguay, Quebec, municipal",48.45,70168,158.2,158.2,111
+"2021A002524102","Granby, Quebec, municipal",40.97,70359,113.7,113.7,80
+"2021A002524119","Manawan, Quebec, municipal",1714.75,2218,450.9,450.9,10
+"2021A002524135","L'Assomption, Quebec, municipal",31.52,27209,132.3,132.3,36
+"2021A002524141","Laval, Quebec, municipal",47.73,443192,139.4,146,647
+"2021A002524147","Mashteuiatsh First Nations, Quebec, municipal",185.94,2064,823.6,436,9
+"2021A002524150","Wemotaci, Quebec, municipal",165.85,1307,841.6,841.6,11
+"2021A002524157","Magog, Quebec, municipal",43.19,37710,103.4,103.4,39
+"2021A002524159","Kitigan Zibi Anishinabeg, Quebec, municipal",315.56,1243,1045.9,885,11
+"2021A002524160","Wendake First Nations, Quebec, municipal",71.26,2257,443.1,443.1,10
+"2021A002524165","Mascouche, Quebec, municipal",40.7,51695,119.9,119.9,62
+"2021A002524167","Lac Simon, Quebec, municipal",460.91,1526,917.4,917.4,14
+"2021A002524175","Montréal, Quebec, municipal",72.03,2025928,222.3,208.7,4228
+"2021A002524177","Uashat Mak Mani-Utenam, Quebec, municipal",311.09,3220,465.8,434.8,14
+"2021A002524178","Obedjiwan First Nations, Quebec, municipal",341.88,2105,665.1,997.6,21
+"2021A002524214","Listuguj, Quebec, municipal",568.02,1553,901.5,837.1,13
+"2021A002524215","Québec, Quebec, municipal",48.55,587357,140.1,156.8,921
+"2021A002524216","Gatineau, Quebec, municipal",53.27,290534,132.9,136,395
+"2021A002524219","Lévis, Quebec, municipal",27.05,152058,121,101.9,155
+"2021A002524221","Repentigny, Quebec, municipal",28.38,93706,125.9,124.9,117
+"2021A002524231","Longueuil, Quebec, municipal",51.2,435123,141.8,139.7,608
+"2021A002524232","Mercier, Quebec, municipal",37.07,14908,167.7,127.4,19
+"2021A002524237","Trois-Rivières, Quebec, municipal",52.32,141417,114.6,114.6,162
+"2021A002524241","Saguenay, Quebec, municipal",50.19,148840,126.3,125.6,187
+"2021A002524255","Kahnawake First Nations, Quebec, municipal",34.4,10198,343.2,313.8,32
+"2021A002524257","St. Eustache, Quebec, municipal",53.37,46058,130.3,130.3,60
+"2021A002524258","Deux-Montagnes Region, Quebec, municipal",27.83,52276,99.5,99.5,52
+"2021A002524259","Pessamit, Quebec, municipal",150.89,2410,580.9,580.9,14
+"2021A002524267","Thérèse-de-Blainville, Quebec, municipal",42.15,78618,134.8,134.8,106
+"2021A002524268","Richelieu Saint-Laurent, Quebec, municipal",36.01,217499,98.4,98.4,214
+"2021A002524272","Saint Jean-sur-Richelieu, Quebec, municipal",43.1,99634,105.4,105.4,105
+"2021A002524273","Mirabel, Quebec, municipal",37.71,80259,95.9,95.9,77
+"2021A002524275","St. Jérôme, Quebec, municipal",64.06,81223,144,144,117
+"2021A002524293","Eeyou Eenou Cree Region, Quebec, municipal",25.31,18679,406.9,406.9,76
+"2021A002524305","Blainville, Quebec, municipal",31.66,62282,146.1,128.4,80
+"2021A002524323","Sherbrooke, Quebec, municipal",52.56,172713,122.2,122.2,211
+"2021A002524333","Terrebonne, Quebec, municipal",28.9,147039,117,117,172
+"2021A002524334","Thetford Mines, Quebec, municipal",64.84,25955,119.4,119.4,31
+"2021A002524379","Kativik Region, Quebec, municipal",778.14,14576,644.9,521.4,76
+"2021A002524382","Collines-de-l'Outaouais Region, Quebec, municipal",29.58,53910,159.5,159.5,86
+"2021A002535005","Hanover, Ontario, municipal",107.73,8149,184.1,159.5,13
+"2021A002535006","Anishinabek, Ontario, municipal",156.6,10352,589.3,589.3,61
+"2021A002535009","Chatham-Kent, Ontario, municipal",77.33,107540,152.5,152.5,164
+"2021A002535010","Ottawa, Ontario, municipal",50.18,1054800,141,135.4,1428
+"2021A002535011","Nishnawbe-Aski Nation, Ontario, municipal",275.75,19711,1100.9,984.2,194
+"2021A002535013","Woodstock, Ontario, municipal",82.76,48012,164.5,164.5,79
+"2021A002535014","Aylmer, Ontario, municipal",39.61,8160,183.8,171.6,14
+"2021A002535021","Barrie, Ontario, municipal",57.51,153169,162.6,156.7,240
+"2021A002535027","Belleville, Ontario, municipal",80.92,56334,163.3,159.8,90
+"2021A002535041","Peel Region (Mississauga/Brampton), Ontario, municipal",35.2,1490540,146.9,142.5,2124
+"2021A002535042","Brantford, Ontario, municipal",86.38,109206,184.1,180.4,197
+"2021A002535046","Brockville, Ontario, municipal",97.71,22039,181.5,203.5,45
+"2021A002535048","Halton Region (Oakville/Burlington), Ontario, municipal",23.95,619075,121.5,115.8,717
+"2021A002535071","Cobourg, Ontario, municipal",70.24,20487,175.7,175.7,36
+"2021A002535076","Cornwall, Ontario, municipal",112.92,48478,193.9,191.8,93
+"2021A002535078","Deep River, Ontario, municipal",37.65,4139,217.4,268.2,11
+"2021A002535084","Dryden, Ontario, municipal",158.36,7613,275.8,262.7,20
+"2021A002535088","West Grey, Ontario, municipal",43.14,13155,136.8,144.4,19
+"2021A002535114","Gananoque, Ontario, municipal",69.35,5509,272.3,254.1,14
+"2021A002535123","Guelph, Ontario, municipal",58.22,146600,152.1,145.6,214
+"2021A002535151","Kingston, Ontario, municipal",84.08,135169,148.7,156.1,211
+"2021A002535153","Lac Seul, Ontario, municipal",632.98,1035,869.6,869.6,9
+"2021A002535155","Treaty Three Communities, Ontario, municipal",247.85,7302,1232.5,1164.1,85
+"2021A002535157","Kawartha Lakes, Ontario, municipal",93.12,28848,145.6,138.7,40
+"2021A002535162","London, Ontario, municipal",88.59,434099,143.5,137.5,597
+"2021A002535196","Niagara Region (St. Catharines), Ontario, municipal",62.12,484840,156.8,154.5,749
+"2021A002535197","North Bay, Ontario, municipal",112.45,58464,176.2,167.6,98
+"2021A002535206","Durham Region (Oshawa/Whitby/Ajax), Ontario, municipal",42.48,727328,126.8,126.8,922
+"2021A002535210","Six Nations, Ontario, municipal",103.05,7145,517.8,517.8,37
+"2021A002535212","Owen Sound, Ontario, municipal",100.53,21834,187.8,185,40
+"2021A002535222","Peterborough-Lakefield, Ontario, municipal",77.15,98087,144.8,141.7,139
+"2021A002535235","Port Hope, Ontario, municipal",36.36,13666,175.6,159.2,22
+"2021A002535240","Saugeen Shores, Ontario, municipal",60.89,15950,144.2,137.9,22
+"2021A002535258","St. Thomas, Ontario, municipal",72.01,43184,173.7,171.4,74
+"2021A002535261","Sarnia, Ontario, municipal",90.05,74692,154,147.3,110
+"2021A002535262","Sault Ste. Marie, Ontario, municipal",130.81,75762,178.2,179.5,136
+"2021A002535268","Smiths Falls, Ontario, municipal",129.31,9024,277,277,25
+"2021A002535275","South Simcoe (Innisfil), Ontario, municipal",32.43,88772,171.2,104.8,93
+"2021A002535281","Stratford, Ontario, municipal",63.61,45707,146.6,142.2,65
+"2021A002535282","Strathroy-Caradoc, Ontario, municipal",50.83,23128,134,142.7,33
+"2021A002535289","Timmins, Ontario, municipal",159.92,42012,192.8,192.8,81
+"2021A002535290","Greater Sudbury, Ontario, municipal",84.39,169079,159.7,152,257
+"2021A002535291","Waterloo Region (Kitchener), Ontario, municipal",79.39,611493,128.5,125.8,769
+"2021A002535299","Thunder Bay, Ontario, municipal",104.83,116968,199.2,203.5,238
+"2021A002535304","Toronto, Ontario, municipal",56.71,2974293,167.7,169.3,5034
+"2021A002535320","United Chiefs and Councils of Manitoulin (UCCM) Anishnaabe, Ontario, municipal",444.19,2172,966.9,920.8,20
+"2021A002535331","Windsor, Ontario, municipal",94.88,253526,197.6,191.3,485
+"2021A002535335","York Region (Markham/Vaughn), Ontario, municipal",39.5,1209646,140.4,135.7,1642
+"2021A002535388","LaSalle, Ontario, municipal",20.69,33580,101.3,101.3,34
+"2021A002546001","Altona, Manitoba, municipal",64.66,5647,141.7,141.7,8
+"2021A002546005","Brandon, Manitoba, municipal",112.65,53785,174.8,165.5,89
+"2021A002546033","Morden, Manitoba, municipal",47.08,10693,149.6,149.6,16
+"2021A002546040","Rivers, Manitoba, municipal",96.58,2186,183,183,4
+"2021A002546041","Gimli, Manitoba, Royal Canadian Mounted Police, municipal",79.94,2072,144.8,144.8,3
+"2021A002546061","Winkler, Manitoba, municipal",42.58,14407,131.9,131.9,19
+"2021A002546064","Winnipeg, Manitoba, municipal",118.52,767500,175.9,172.9,1327
+"2021A002546068","Ste. Anne, Manitoba, municipal",44.12,2613,267.9,210.5,6
+"2021A002546070","Manitoba First Nations, Manitoba, municipal",553.39,10501,533.3,466.6,49
+"2021A002546729","Souris, Manitoba, Royal Canadian Mounted Police, municipal",70.1,2114,94.6,94.6,2
+"2021A002546730","Killarney, Manitoba, Royal Canadian Mounted Police, municipal",69.9,2495,120.2,80.2,2
+"2021A002546733","Neepawa, Manitoba, Royal Canadian Mounted Police, municipal",44.16,5154,77.6,58.2,3
+"2021A002546735","Minnedosa, Manitoba, Royal Canadian Mounted Police, municipal",93.07,2465,121.7,121.7,3
+"2021A002546740","Russell, Manitoba, Royal Canadian Mounted Police, municipal",50.75,1590,125.8,125.8,2
+"2021A002546744","Virden, Manitoba, Royal Canadian Mounted Police, municipal",69.5,3294,151.8,91.1,3
+"2021A002546753","Dauphin, Manitoba, Royal Canadian Mounted Police, municipal",185.14,8690,172.6,126.6,11
+"2021A002546761","Gillam, Manitoba, Royal Canadian Mounted Police, municipal",170.73,1396,286.5,286.5,4
+"2021A002546765","Roblin, Manitoba, Royal Canadian Mounted Police, municipal",151.95,1727,115.8,115.8,2
+"2021A002546770","Swan River, Manitoba, Royal Canadian Mounted Police, municipal",503.42,4004,174.8,174.8,7
+"2021A002546772","The Pas, Manitoba, Royal Canadian Mounted Police, municipal",446.98,5427,276.4,258,14
+"2021A002546774","Thompson, Manitoba, Royal Canadian Mounted Police, municipal",438.49,14126,269,269,38
+"2021A002546786","Carman, Manitoba, Royal Canadian Mounted Police, municipal",48,3499,85.7,114.3,4
+"2021A002546800","Pinawa, Manitoba, Royal Canadian Mounted Police, municipal",60.67,1531,130.6,130.6,2
+"2021A002546801","Portage La Prairie, Manitoba, Royal Canadian Mounted Police, municipal",227.33,14378,187.8,180.8,26
+"2021A002546804","Selkirk, Manitoba, Royal Canadian Mounted Police, municipal",166.4,11001,163.6,181.8,20
+"2021A002546806","Stonewall, Manitoba, Royal Canadian Mounted Police, municipal",45,4951,80.8,80.8,4
+"2021A002546816","Steinbach, Manitoba, Royal Canadian Mounted Police, municipal",78.53,19169,88.7,73,14
+"2021A002546817","Boissevain, Manitoba, Royal Canadian Mounted Police, municipal",71.47,1638,122.1,61.1,1
+"2021A002547001","File Hills First Nations, Saskatchewan, municipal",282.26,1665,660.7,660.7,11
+"2021A002547004","Martensville, Saskatchewan, Royal Canadian Mounted Police, municipal",32.9,11573,69.1,69.1,8
+"2021A002547017","Estevan, Saskatchewan, municipal",91.13,11240,240.2,213.5,24
+"2021A002547045","Moose Jaw, Saskatchewan, municipal",127.18,34418,174.3,165.6,57
+"2021A002547055","Prince Albert, Saskatchewan, municipal",263.44,37510,255.9,231.9,87
+"2021A002547063","Regina, Saskatchewan, municipal",116.81,238591,171.4,168.1,401
+"2021A002547066","Saskatoon, Saskatchewan, municipal",119.09,282227,166.9,166.5,470
+"2021A002547083","Weyburn, Saskatchewan, municipal",77.34,10914,201.6,174.1,19
+"2021A002547091","Dalmeny, Saskatchewan, municipal",31.87,1979,151.6,151.6,3
+"2021A002547718","Meadow Lake, Saskatchewan, Royal Canadian Mounted Police, municipal",464.77,5684,228.7,228.7,13
+"2021A002547721","North Battleford, Saskatchewan, Royal Canadian Mounted Police, municipal",480.72,14204,260.5,260.5,37
+"2021A002547757","Melfort, Saskatchewan, Royal Canadian Mounted Police, municipal",102.17,5989,116.9,83.5,5
+"2021A002547848","Humboldt, Saskatchewan, Royal Canadian Mounted Police, municipal",66.69,6057,82.5,82.5,5
+"2021A002547906","Swift Current, Saskatchewan, Royal Canadian Mounted Police, municipal",94.48,17212,122,116.2,20
+"2021A002547931","Yorkton, Saskatchewan, Royal Canadian Mounted Police, municipal",147.59,16532,169.4,163.3,27
+"2021A002547956","Warman, Saskatchewan, Royal Canadian Mounted Police, municipal",28.58,15012,60,66.6,10
+"2021A002548004","Tsuu Tina, Alberta, municipal",343.49,2083,1248.2,1152.2,24
+"2021A002548005","Chestermere, Alberta, Royal Canadian Mounted Police, municipal",30.83,23178,73.3,82,19
+"2021A002548007","Lloydminster, Alberta, Royal Canadian Mounted Police, municipal",203.86,32817,149.3,158.5,52
+"2021A002548008","Redcliff, Alberta, Royal Canadian Mounted Police, municipal",46.16,5866,136.4,153.4,9
+"2021A002548014","Calgary, Alberta, municipal",74.35,1372178,153.8,156,2140
+"2021A002548015","Camrose, Alberta, municipal",90.21,19532,153.6,143.4,28
+"2021A002548017","Lakeshore Regional, Alberta, municipal",399.74,2200,681.8,545.5,12
+"2021A002548019","Blackfalds, Alberta, Royal Canadian Mounted Police, municipal",67.61,11530,78.1,86.7,10
+"2021A002548020","Coaldale, Alberta, Royal Canadian Mounted Police, municipal",44.51,8917,100.9,100.9,9
+"2021A002548023","Westlock, Alberta, Royal Canadian Mounted Police, municipal",161.95,4840,82.6,82.6,4
+"2021A002548033","Edmonton, Alberta, municipal",106.18,1057786,177.4,181.6,1921
+"2021A002548052","Lacombe, Alberta, municipal",51.37,13907,158.2,158.2,22
+"2021A002548054","Lethbridge Region, Alberta, municipal",148.93,101799,169.9,158.6,162
+"2021A002548062","Medicine Hat, Alberta, municipal",81.93,65203,174.8,174.8,114
+"2021A002548088","Taber, Alberta, municipal",67.37,8988,200.3,178,16
+"2021A002548091","Blood Tribe (Standoff), Alberta, municipal",565.2,4717,614.8,614.8,29
+"2021A002548704","Beaumont, Alberta, Royal Canadian Mounted Police, municipal",34.37,21106,71.1,71.1,15
+"2021A002548708","Brooks, Alberta, Royal Canadian Mounted Police, municipal",89.56,14671,156.8,136.3,20
+"2021A002548715","Drumheller, Alberta, Royal Canadian Mounted Police, municipal",127.91,7945,138.5,138.5,11
+"2021A002548720","High River, Alberta, Royal Canadian Mounted Police, municipal",47.42,14220,126.6,133.6,19
+"2021A002548729","Canmore, Alberta, Royal Canadian Mounted Police, municipal",60.17,14370,132.2,132.2,19
+"2021A002548731","Banff, Alberta, Royal Canadian Mounted Police, municipal",69.06,8905,179.7,157.2,14
+"2021A002548742","Bonnyville, Alberta, Royal Canadian Mounted Police, municipal",327.52,5747,226.2,243.6,14
+"2021A002548747","Edson, Alberta, Royal Canadian Mounted Police, municipal",177.02,8000,212.5,212.5,17
+"2021A002548756","Wood Buffalo, Alberta, Royal Canadian Mounted Police, municipal",103.02,70892,228.5,207.4,147
+"2021A002548768","Strathcona, Alberta, Royal Canadian Mounted Police, municipal",62.3,74288,123.8,137.3,102
+"2021A002548770","St. Albert, Alberta, Royal Canadian Mounted Police, municipal",53.48,69789,100.3,107.5,75
+"2021A002548772","St. Paul, Alberta, Royal Canadian Mounted Police, municipal",397.83,5921,202.7,202.7,12
+"2021A002548780","Vegreville, Alberta, Royal Canadian Mounted Police, municipal",190.58,5673,0,123.4,7
+"2021A002548786","Wainwright, Alberta, Royal Canadian Mounted Police, municipal",126.99,6270,127.6,143.5,9
+"2021A002548789","Whitecourt, Alberta, Royal Canadian Mounted Police, municipal",134.88,9721,144,154.3,15
+"2021A002548793","Drayton Valley, Alberta, Royal Canadian Mounted Police, municipal",185.19,6862,204,160.3,11
+"2021A002548795","Spruce Grove, Alberta, Royal Canadian Mounted Police, municipal",77.47,39607,0,0,0
+"2021A002548796","Stony Plain, Alberta, Royal Canadian Mounted Police, municipal",79.35,18371,0,0,0
+"2021A002548797","Cold Lake, Alberta, Royal Canadian Mounted Police, municipal",204.51,16096,111.8,99.4,16
+"2021A002548798","Leduc, Alberta, Royal Canadian Mounted Police, municipal",85.95,34560,101.3,101.3,35
+"2021A002548800","Fort Saskatchewan, Alberta, Royal Canadian Mounted Police, municipal",66.8,27635,119.4,119.4,33
+"2021A002548846","Grande Prairie, Alberta, Royal Canadian Mounted Police, municipal",154.34,67627,162.7,155.3,105
+"2021A002548854","Peace River, Alberta, Royal Canadian Mounted Police, municipal",194.29,6710,178.8,193.7,13
+"2021A002548858","Slave Lake, Alberta, Royal Canadian Mounted Police, municipal",165.1,6333,205.3,173.7,11
+"2021A002548875","Innisfail, Alberta, Royal Canadian Mounted Police, municipal",111.52,7655,130.6,130.6,10
+"2021A002548878","Olds, Alberta, Royal Canadian Mounted Police, municipal",86.28,9577,104.4,94,9
+"2021A002548882","Red Deer, Alberta, Royal Canadian Mounted Police, municipal",176.39,104392,166.7,171.5,179
+"2021A002548886","Stettler, Alberta, Royal Canadian Mounted Police, municipal",151.39,5794,138.1,138.1,8
+"2021A002548888","Rocky Mountain House, Alberta, Royal Canadian Mounted Police, municipal",217.28,6302,222.2,238,15
+"2021A002548890","Wetaskiwin, Alberta, Royal Canadian Mounted Police, municipal",313.41,12431,249.4,205.1,26
+"2021A002548893","Ponoka, Alberta, Royal Canadian Mounted Police, municipal",183.75,7326,163.8,177.5,13
+"2021A002548896","Devon, Alberta, Royal Canadian Mounted Police, municipal",93.45,6632,120.6,120.6,8
+"2021A002548897","Morinville, Alberta, Royal Canadian Mounted Police, municipal",75.53,10442,95.8,86.2,9
+"2021A002548899","Airdrie, Alberta, Royal Canadian Mounted Police, municipal",47.96,77027,85.7,90.9,70
+"2021A002548900","Cochrane, Alberta, Royal Canadian Mounted Police, municipal",38.41,33399,68.9,74.9,25
+"2021A002548903","Strathmore, Alberta, Royal Canadian Mounted Police, municipal",65.76,14810,128.3,128.3,19
+"2021A002548904","Sylvan Lake, Alberta, Royal Canadian Mounted Police, municipal",99.9,16354,97.8,85.6,14
+"2021A002548906","Okotoks, Alberta, Royal Canadian Mounted Police, municipal",31.59,32388,77.2,74.1,24
+"2021A002548930","Hinton, Alberta, Royal Canadian Mounted Police, municipal",161.92,10077,188.5,178.6,18
+"2021A002559001","Central Saanich, British Columbia, municipal",34.09,18522,124.2,124.2,23
+"2021A002559002","Stl'atl'imx Tribal (Lillooet-Pemberton), British Columbia, municipal",121.18,3057,458,359.8,11
+"2021A002559004","Delta, British Columbia, municipal",57.62,114678,152.6,143,164
+"2021A002559009","Abbotsford, British Columbia, municipal",72.59,165198,135.6,127,210
+"2021A002559011","Nelson, British Columbia, municipal",70.35,11733,153.4,153.4,18
+"2021A002559012","New Westminster, British Columbia, municipal",88.04,82866,137.6,163.5,136
+"2021A002559015","Oak Bay, British Columbia, municipal",28.7,18930,110.9,110.9,21
+"2021A002559016","Port Moody, British Columbia, municipal",37.84,35951,144.6,136.3,49
+"2021A002559019","Saanich, British Columbia, municipal",48.32,124639,132.4,124.4,155
+"2021A002559020","Sooke, British Columbia, Royal Canadian Mounted Police, municipal",56.45,15539,83.7,83.7,13
+"2021A002559023","Vancouver, British Columbia, municipal",90.11,694959,194,190.2,1322
+"2021A002559026","West Vancouver, British Columbia, municipal",50.31,48806,161.9,153.7,75
+"2021A002559027","West Kelowna, British Columbia, Royal Canadian Mounted Police, municipal",81.91,38311,78.3,78.3,30
+"2021A002559029","Kent, British Columbia, Royal Canadian Mounted Police, municipal",70.78,6635,90.4,90.4,6
+"2021A002559036","Creston, British Columbia, Royal Canadian Mounted Police, municipal",103.56,5620,124.6,124.6,7
+"2021A002559037","Peachland, British Columbia, Royal Canadian Mounted Police, municipal",59.4,6043,66.2,49.6,3
+"2021A002559038","Spallumcheen, British Columbia, Royal Canadian Mounted Police, municipal",71.05,5490,72.9,72.9,4
+"2021A002559041","Armstrong, British Columbia, Royal Canadian Mounted Police, municipal",48.31,5529,72.3,90.4,5
+"2021A002559042","Osoyoos, British Columbia, Royal Canadian Mounted Police, municipal",116.65,5567,107.8,107.8,6
+"2021A002559043","Fernie, British Columbia, Royal Canadian Mounted Police, municipal",54.06,6191,96.9,96.9,6
+"2021A002559703","Burnaby, British Columbia, Royal Canadian Mounted Police, municipal",75.27,260918,115.4,117.7,307
+"2021A002559704","Surrey, British Columbia, Royal Canadian Mounted Police, municipal",85.98,614781,128,126.5,778
+"2021A002559705","Coquitlam, British Columbia, Royal Canadian Mounted Police, municipal",57.5,154443,107.5,111.4,172
+"2021A002559706","North Vancouver City, British Columbia, Royal Canadian Mounted Police, municipal",78.27,60228,109.6,105.6,64
+"2021A002559707","North Vancouver District, British Columbia, Royal Canadian Mounted Police, municipal",38.09,94335,83.7,74.2,70
+"2021A002559708","Port Coquitlam, British Columbia, Royal Canadian Mounted Police, municipal",58.49,63917,117.3,127.8,82
+"2021A002559710","Prince George, British Columbia, Royal Canadian Mounted Police, municipal",223.92,82326,172.5,173.7,143
+"2021A002559711","Richmond, British Columbia, Royal Canadian Mounted Police, municipal",106.86,216280,119.3,120.4,261
+"2021A002559719","Ladysmith, British Columbia, Royal Canadian Mounted Police, municipal",56.58,9214,86.8,97.7,9
+"2021A002559724","Chilliwack, British Columbia, Royal Canadian Mounted Police, municipal",132.59,100298,142.6,141.6,142
+"2021A002559727","Maple Ridge, British Columbia, Royal Canadian Mounted Police, municipal",81.74,95041,111.5,112.6,107
+"2021A002559734","Mission, British Columbia, Royal Canadian Mounted Police, municipal",99.82,43270,120.2,113.2,49
+"2021A002559737","Penticton, British Columbia, Royal Canadian Mounted Police, municipal",200.59,36362,129.3,140.3,51
+"2021A002559741","Summerland, British Columbia, Royal Canadian Mounted Police, municipal",70.47,12877,69.9,69.9,9
+"2021A002559744","Qualicum Beach, British Columbia, Royal Canadian Mounted Police, municipal",33.03,9387,85.2,74.6,7
+"2021A002559748","Lake Country, British Columbia, Royal Canadian Mounted Police, municipal",57.67,16238,110.9,92.4,15
+"2021A002559749","Hope, British Columbia, Royal Canadian Mounted Police, municipal",191.02,6767,177.3,206.9,14
+"2021A002559763","Kamloops, British Columbia, Royal Canadian Mounted Police, municipal",135.33,101603,139.8,148.6,151
+"2021A002559765","Kelowna, British Columbia, Royal Canadian Mounted Police, municipal",141.93,149687,141.6,150.3,225
+"2021A002559776","Salmon Arm, British Columbia, Royal Canadian Mounted Police, municipal",82.89,19825,100.9,90.8,18
+"2021A002559780","Vernon, British Columbia, Royal Canadian Mounted Police, municipal",140.32,44916,124.7,144.7,65
+"2021A002559783","Merritt, British Columbia, Royal Canadian Mounted Police, municipal",213.21,7606,223.5,210.4,16
+"2021A002559784","Whistler, British Columbia, Royal Canadian Mounted Police, municipal",69.1,13918,179.6,172.4,24
+"2021A002559792","Cranbrook, British Columbia, Royal Canadian Mounted Police, municipal",102.71,21635,129.4,129.4,28
+"2021A002559801","Kimberley, British Columbia, Royal Canadian Mounted Police, municipal",34.4,8308,96.3,84.3,7
+"2021A002559811","Trail, British Columbia, Royal Canadian Mounted Police, municipal",124.79,8168,159.2,146.9,12
+"2021A002559814","Revelstoke, British Columbia, Royal Canadian Mounted Police, municipal",50.44,8429,166.1,154.2,13
+"2021A002559815","North Saanich, British Columbia, Royal Canadian Mounted Police, municipal",33.3,12500,16,8,1
+"2021A002559816","Coldstream, British Columbia, Royal Canadian Mounted Police, municipal",39.53,11750,59.6,59.6,7
+"2021A002559817","Parksville, British Columbia, Royal Canadian Mounted Police, municipal",110.14,13871,122.6,122.6,17
+"2021A002559818","Pitt Meadows, British Columbia, Royal Canadian Mounted Police, municipal",53.03,20112,114.4,119.3,24
+"2021A002559819","Colwood, British Columbia, Royal Canadian Mounted Police, municipal",44.75,19693,91.4,101.6,20
+"2021A002559822","Dawson Creek, British Columbia, Royal Canadian Mounted Police, municipal",174.95,13087,191,198.7,26
+"2021A002559837","Quesnel, British Columbia, Royal Canadian Mounted Police, municipal",246.83,10122,227.2,217.3,22
+"2021A002559838","Fort St John, British Columbia, Royal Canadian Mounted Police, municipal",151.83,22233,170.9,184.4,41
+"2021A002559844","Langford, British Columbia, Royal Canadian Mounted Police, municipal",56.72,47313,120.5,112,53
+"2021A002559850","Kitimat, British Columbia, Royal Canadian Mounted Police, municipal",113.35,8564,233.5,210.2,18
+"2021A002559854","Prince Rupert, British Columbia, Royal Canadian Mounted Police, municipal",159.17,13177,273.2,250.4,33
+"2021A002559861","Terrace, British Columbia, Royal Canadian Mounted Police, municipal",140.25,13125,213.3,182.9,24
+"2021A002559863","Sechelt, British Columbia, Royal Canadian Mounted Police, municipal",90.57,10971,100.3,100.3,11
+"2021A002559864","View Royal, British Columbia, Royal Canadian Mounted Police, municipal",61.52,12034,99.7,99.7,12
+"2021A002559866","Smithers, British Columbia, Royal Canadian Mounted Police, municipal",157.55,5697,175.5,193.1,11
+"2021A002559870","Squamish, British Columbia, Royal Canadian Mounted Police, municipal",80.1,22740,114.3,114.3,26
+"2021A002559873","Powell River, British Columbia, Royal Canadian Mounted Police, municipal",120.92,14024,142.6,135.5,19
+"2021A002559880","White Rock, British Columbia, Royal Canadian Mounted Police, municipal",83.77,21522,116.2,125.5,27
+"2021A002559891","Campbell River, British Columbia, Royal Canadian Mounted Police, municipal",126.32,37134,121.2,123.9,46
+"2021A002559895","Courtenay, British Columbia, Royal Canadian Mounted Police, municipal",145.06,28960,107,110.5,32
+"2021A002559904","Nanaimo, British Columbia, Royal Canadian Mounted Police, municipal",129.7,102380,144.6,167.1,171
+"2021A002559906","North Cowichan, British Columbia, Royal Canadian Mounted Police, municipal",90.9,32850,97.4,100.5,33
+"2021A002559908","Port Alberni, British Columbia, Royal Canadian Mounted Police, municipal",175.96,19101,178,178,34
+"2021A002559925","Sidney, British Columbia, Royal Canadian Mounted Police, municipal",48.07,12279,195.5,162.9,20
+"2021A002559926","Comox, British Columbia, Royal Canadian Mounted Police, municipal",35.68,15211,72.3,59.2,9
+"2021A002559927","Williams Lake, British Columbia, Royal Canadian Mounted Police, municipal",214.64,11505,217.3,199.9,23
+"2021A002559928","Castlegar, British Columbia, Royal Canadian Mounted Police, municipal",114.7,8570,151.7,163.4,14
